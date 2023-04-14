@@ -1,0 +1,10 @@
+<?php
+return [
+	'bsVersion' => '5.x',
+	'adminEmail' => 'dore.pmgc@gmail.com',
+	'adminEmail2' => 'guypatricknoumsi@gmail.com',
+	'adminPhone' => '699458110',
+	'supportEmail' => 'support@example.com',
+	'user.passwordResetTokenExpire' => 3600,
+	'platform_url' => 'http://vps-3e5d96d7.vps.ovh.net/',
+];
